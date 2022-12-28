@@ -1,0 +1,1 @@
+Olah este projeto destina-se a aprender a usar o Git.
